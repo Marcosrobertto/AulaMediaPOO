@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.exe
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.dll
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\bin\Debug\netcoreapp3.1\MediaPOO.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.dll
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\MediaPOO\obj\Debug\netcoreapp3.1\MediaPOO.genruntimeconfig.cache
